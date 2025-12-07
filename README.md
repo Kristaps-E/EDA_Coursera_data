@@ -1,5 +1,3 @@
-# DS.v3.1.4.5
-
 # **Coursera Course Data - Exploratory Data Analysis (EDA)**
 
 ## **Description:**
