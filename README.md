@@ -18,7 +18,7 @@ Analyze how course difficulty levels affect student enrollment and identify whic
 - Gain insights into the course types that are most likely to have higher enrollment:
 Evaluate which course types (e.g., Course, Specialization, Professional Certificate) show a correlation with higher enrollment rates.
 
-- Identify potential ways to achieve good enrollment levels and reach top courses by enrollment:
+- Identify potential ways to achieve good enrollment levels and reach the top courses by enrollment:
 Investigate strategies or course characteristics that contribute to higher enrollment and appearing in the top courses.
 
 - Identify the top topics that courses with the highest enrollment focus on:
@@ -38,7 +38,7 @@ Matplotlib: For data visualization and plotting.
 Seaborn: For statistical data visualization.
 
 ## **Dataset:**
-The dataset used in this project is coursea_data.csv, which contains data about Coursera courses and have specific data like:
+The dataset used in this project is coursea_data.csv, which contains data about Coursera courses and has specific data like:
 - Course title
 - Course category
 - Rating
@@ -47,22 +47,22 @@ The dataset used in this project is coursea_data.csv, which contains data about 
 
 ## **Installation/Setup Instructions:**
 1. Clone this repository or download the notebook file.
-2. Install the required libraries in terminal: pip install pandas matplotlib seaborn numpy.
-3. Open terminal.
-4. Write "jupyter notebook" in terminal and let it open the repository.
+2. Install the required libraries in the terminal: pip install pandas matplotlib seaborn numpy.
+3. Open a terminal.
+4. Write "jupyter notebook" in the terminal and let it open the repository.
 5. Open the Coursera_EDA.ipynb file and run the cells to explore the dataset.
 
 ## **Usage:**
 The notebook is divided into sections that guide the user through the EDA process:
 - Data loading & inspection: Load and inspect the dataset to understand its structure.
 - Data cleaning: Handle missing values, duplicates, and inconsistencies.
-- Exploratory analysis and Data visualization: analyze various aspects of the dataset, including course ratings, difficulty, and categories as well as visualize the findings using various types of plots, including histograms, bar charts, and scatter plots
+- Exploratory analysis and Data visualization: analyze various aspects of the dataset, including course ratings, difficulty, and categories, as well as visualize the findings using various types of plots, including histograms, bar charts, and scatter plots
 - EDA Summary with conclusion & suggestions: Summarizes the key insights discovered during the analysis and gives suggestions for further improvement
 
 
 ## **EDA Summary**
 To attract enrollment for new courses, I offer the following observations and recommendations to help the organization develop relevant and valuable courses that will drive high enrollment rates.
-Data gives deeper insignts for understaning value of:
+Data gives deeper insights for understanding the  value of:
 - Difficulty
 - Course Type
 - Course Topic
@@ -70,7 +70,7 @@ Data gives deeper insignts for understaning value of:
 - Course Count
 
 ##  **Suggestions for further improvement:**
-With more time and date, I could dive deeper into the data to provide even more valuable insights to help guide decisions for course development.
+With more time and data, I could dive deeper into the data to provide even more valuable insights to help guide decisions for course development.
 
 For example:
 
@@ -79,11 +79,11 @@ For example:
 - Include price data
 - Incorporate course length data
 - Gather data on course topic relevance from employers
-- Analyse regional enrollment data in Coursera cources
+- Analyse regional enrollment data in Coursera courses
 - Examine upcoming trends for 2025
 - Make more interactive visualizations
 - Look into other learning platforms
-- Use clustering tto find paterns
+- Use clustering to find patterns
 
 
 
